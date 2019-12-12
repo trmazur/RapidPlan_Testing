@@ -1,0 +1,11 @@
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\bin\debug\KBPAutoPlan.exe
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\bin\debug\KBPAutoPlan.pdb
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\bin\debug\VMS.TPS.Common.Model.API.dll
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\bin\debug\VMS.TPS.Common.Model.Types.dll
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\bin\debug\VMS.TPS.Common.Model.API.xml
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\bin\debug\VMS.TPS.Common.Model.Types.xml
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\obj\x64\Debug\KBPAutoPlan.csprojAssemblyReference.cache
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\obj\x64\Debug\KBPAutoPlan.csproj.CoreCompileInputs.cache
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\obj\x64\Debug\KBPAutoPlan.csproj.CopyComplete
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\obj\x64\Debug\KBPAutoPlan.exe
+C:\Users\cwalker\Desktop\EC301_Scripts\Projects\Projects\KBPAutoPlan\obj\x64\Debug\KBPAutoPlan.pdb
